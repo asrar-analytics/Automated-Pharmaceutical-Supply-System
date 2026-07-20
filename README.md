@@ -1,6 +1,6 @@
 # Automated Pharmaceutical Supply System 2025
 
-![Dashboard](Dashboard.png)
+![Dashboard]Dashboard.png
 
 ## Project Overview
 This project is an interactive Power BI dashboard designed to support pharmaceutical inventory management and reduce drug shortages.
